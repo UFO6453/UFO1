@@ -1,0 +1,9 @@
+tr td,th{
+
+    border:1px solid black;
+    width: 100px;
+    } 
+/*取消table标签中的单元格空白*/
+.mt{
+     border-collapse:collapse;   
+}
